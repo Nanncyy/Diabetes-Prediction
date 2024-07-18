@@ -1,2 +1,1 @@
-# Diabetes-Prediction
-Diabetes Prediction using Logistics Regression
+Data Analysis and Preprocessing on Diabetes Dataset
